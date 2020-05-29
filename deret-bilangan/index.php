@@ -22,7 +22,13 @@
 						<h5 class="text-center">PROGRAM MENETUKAN NILAI DERET</h5>
 					</div>
 					<div class="card-body">
-						
+						<div class="row">
+							<div class="col-12 col-sm-12">
+								<div class="alert alert-warning">
+									<p>Masukkan Nilai tanpa spasi seperti, 91293947...</p>
+								</div>
+							</div>
+						</div>
 						<form aksi="index.php"method="POST">
 							<div class="row">
 								<div class="col-12 col-sm-4">
